@@ -1,4 +1,8 @@
 {
     "name": "evgvfv/small-talk-with-hexlet",
-    "require": {}
+    "require": {},
+    "bin": [
+	"./sayHi",
+	"./sayBye"
+	]
 }

@@ -2,6 +2,7 @@
     "name": "evgvfv/small-talk-with-hexlet",
     "require": {},
     "keywords": ["hexlet", "php", "composer"],
+    "license": "MIT",
     "bin": [
 	"./sayHi",
 	"./sayBye"

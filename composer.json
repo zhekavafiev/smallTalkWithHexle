@@ -1,6 +1,7 @@
 {
     "name": "evgvfv/small-talk-with-hexlet",
     "require": {},
+    "keywords": ["hexlet", "php", "composer"],
     "bin": [
 	"./sayHi",
 	"./sayBye"

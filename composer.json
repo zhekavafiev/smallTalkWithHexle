@@ -1,10 +1,10 @@
 {
     "name": "evgvfv/small-talk-with-hexlet",
-    "require": {},
+    "description": "Small talk with Hexlet",
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
     "bin": [
-	"./sayHi",
-	"./sayBye"
-	]
+        "./sayHi",
+        "./sayBye"
+    ]
 }

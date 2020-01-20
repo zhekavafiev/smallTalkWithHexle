@@ -1,4 +1,4 @@
 #!/usr/bin/env php
 <?php
 
-print_r("Hello, Hexlet!\n");
+print_r("Hello, Olesya!\n");
